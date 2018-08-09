@@ -1,7 +1,7 @@
 import React from 'react';
 import * as R from 'ramda';
-import fetch from '../../../../utils/fetch';
 import classNames from 'classnames';
+import fetch from '../../../../utils/fetch';
 import { connect } from 'react-redux';
 import { Link } from 'react-router-dom';
 import { Observable } from 'rxjs';
